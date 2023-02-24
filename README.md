@@ -29,7 +29,7 @@ Add changes to stage
 Commit changes from stages
 -m is parameter for message
 
-## git push 
+## git push origin [Branch]
 Push changes to remote branch
 
 ## git checkout -b 'Branch-Name'
