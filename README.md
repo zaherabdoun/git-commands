@@ -29,8 +29,9 @@ Add changes to stage
 Commit changes from stages
 -m is parameter for message
 
-## git push origin [Branch]
+## git push -u origin [Branch]
 Push changes to remote branch
+-u is short parameter for --set-upstream
 
 ## git checkout -b 'Branch-Name'
 Create a new Branch
