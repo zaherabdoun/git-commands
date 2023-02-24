@@ -53,3 +53,5 @@ Show branches
 ## git branch -d [Branch-Name]
 Delete a Branch
 
+## git merge [Branch-Target]
+Merge a current branch to a target branch
