@@ -28,6 +28,8 @@ Add changes to stage
 ## git commit -m "Title" -m "Description"
 Commit changes from stages
 -m is parameter for message
+## git commit -am "Title"
+Add and commit a CHANGED Files 
 
 ## git push -u origin [Branch]
 Push changes to remote branch
