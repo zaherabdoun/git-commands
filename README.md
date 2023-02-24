@@ -2,6 +2,10 @@
 
 This repo is to test the git commands
 
+## Fork 
+Copy the complete repo to my account 
+That can I change any thing in the repo local
+
 # git
 ## git init
 Create an initial repo
@@ -55,3 +59,16 @@ Delete a Branch
 
 ## git merge [Branch-Target]
 Merge a current branch to a target branch
+
+## git reset [File-Name]
+Delete the file from the stage
+
+## git reset HEAD~[Index of Commit]
+Reset to the last Commit
+
+## git reset [Commit-Hash]
+Reset to the specific Commit
+
+## git reset --hard [Commit-Hash]
+Reset to the specific Commit not only unstaged but to be completly removed
+
