@@ -18,3 +18,6 @@ git confit --global user.name "Your Name"
 
 ## git remote set-url origin [SSH:Git]
 Change the remote Repo
+
+## git status
+Show tracked and untraked files
