@@ -38,3 +38,16 @@ Create a new Branch
 
 ## git checkout 'Branch-Name'
 Change the Branch
+
+## git pull
+Pull changes from the remote branch
+
+## git fetch
+Fetch branches from remote
+
+## git branch
+Show branches
+
+## git branch -d [Branch-Name]
+Delete a Branch
+
