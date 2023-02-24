@@ -21,3 +21,19 @@ Change the remote Repo
 
 ## git status
 Show tracked and untraked files
+
+## git add [file or . for all files]
+Add changes to stage
+
+## git commit -m "Title" -m "Description"
+Commit changes from stages
+-m is parameter for message
+
+## git push 
+Push changes to remote branch
+
+## git checkout -b 'Branch-Name'
+Create a new Branch
+
+## git checkout 'Branch-Name'
+Change the Branch
