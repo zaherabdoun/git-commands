@@ -1,4 +1,4 @@
-# demo-repo
+# git-commands
 
 This repo is to test the git commands
 
